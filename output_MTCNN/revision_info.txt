@@ -1,0 +1,7 @@
+arguments: align/align_dataset_mtcnn.py /home/duong/Presidents /home/duong/HomeBrewFaceRecognition/output_MTCNN --image_size 182 --margin 44
+--------------------
+tensorflow version: 1.14.0
+--------------------
+git hash: b''
+--------------------
+b''

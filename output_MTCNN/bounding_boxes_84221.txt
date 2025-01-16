@@ -1,0 +1,4 @@
+/home/duong/HomeBrewFaceRecognition/output_MTCNN/Bill_Clinton/Bill_Clinton.png 312 353 855 1041
+/home/duong/HomeBrewFaceRecognition/output_MTCNN/Joe_Biden/Joe_Biden.png 1573 353 2302 1315
+/home/duong/HomeBrewFaceRecognition/output_MTCNN/Obama/Obama.png 52 27 174 177
+/home/duong/HomeBrewFaceRecognition/output_MTCNN/Putin/Putin.png 23 19 162 189
